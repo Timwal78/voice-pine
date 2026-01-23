@@ -1,6 +1,5 @@
-# requirements.txt – drop this in repo root
 flask==3.0.3
 openai==1.57.3
-openai-whisper==20231117
+whisper-openai @ https://github.com/openai/whisper/archive/v20231117.zip#guild-omit=_version
 gunicorn==23.0.0
 python-multipart==0.0.9
