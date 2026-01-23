@@ -1,0 +1,6 @@
+# requirements.txt – drop this in repo root
+flask==3.0.3
+openai==1.57.3
+openai-whisper==20231117
+gunicorn==23.0.0
+python-multipart==0.0.9
