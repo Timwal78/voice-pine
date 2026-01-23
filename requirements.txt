@@ -1,5 +1,5 @@
 flask==3.0.3
 openai==1.57.3
-whisper-openai==20231117
+whisper==1.1.10          # ← stable CPU wheel on PyPI
 gunicorn==23.0.0
 python-multipart==0.0.9
