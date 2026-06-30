@@ -1,0 +1,13 @@
+{
+  "name": "voice-pine",
+  "description": "Voice-Pine natural language trading interface",
+  "owner": "ScriptMasterLabs",
+  "github": "https://github.com/timwal78/voice-pine",
+  "contact": "scriptmasterlabs@gmail.com",
+  "sovereign": {
+    "noMockData": true,
+    "liveDataOnly": true,
+    "noTelemetry": true,
+    "enforcedBy": ".github/workflows/sovereign-data-check.yml"
+  }
+}
